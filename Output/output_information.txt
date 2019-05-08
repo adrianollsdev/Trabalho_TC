@@ -1,0 +1,32 @@
+
+Automato para validar a string: o 
+
+Palavra -> o = Aceita......Começa na Posição: 17
+Palavra -> o = Aceita......Começa na Posição: 136
+Palavra -> o = Aceita......Começa na Posição: 216
+Palavra -> o = Aceita......Começa na Posição: 254
+Palavra -> o = Aceita......Começa na Posição: 369
+Palavra -> o = Aceita......Começa na Posição: 447
+
+Automato para validar a string: seguinte 
+
+Palavra -> seguinte = Aceita......Começa na Posição: 19
+Palavra -> seguinte = Aceita......Começa na Posição: 256
+
+Automato para validar a string: arquivo 
+
+Palavra -> arquivo = Aceita......Começa na Posição: 56
+Palavra -> arquivo = Aceita......Começa na Posição: 149
+Palavra -> arquivo = Aceita......Começa na Posição: 205
+Palavra -> arquivo = Aceita......Começa na Posição: 292
+Palavra -> arquivo = Aceita......Começa na Posição: 382
+Palavra -> arquivo = Aceita......Começa na Posição: 437
+
+Automato para validar a string: caso 
+
+Palavra -> caso = Aceita......Começa na Posição: 195
+Palavra -> caso = Aceita......Começa na Posição: 427
+
+Automato para validar a string: mamãe 
+
+Não há esta palavra no texto.
