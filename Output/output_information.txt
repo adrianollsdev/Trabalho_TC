@@ -1,32 +1,41 @@
 
-Automato para validar a string: o 
+****Automato para reconhecer a string text 
 
-Palavra -> o = Aceita......Começa na Posição: 17
-Palavra -> o = Aceita......Começa na Posição: 136
-Palavra -> o = Aceita......Começa na Posição: 216
-Palavra -> o = Aceita......Começa na Posição: 254
-Palavra -> o = Aceita......Começa na Posição: 369
-Palavra -> o = Aceita......Começa na Posição: 447
+|>Q0 === t ===> Q1 === e ===> Q2 === x ===> Q3 === t ===> ((Q4))
 
-Automato para validar a string: seguinte 
+Palavra -> text = Encontrada na Posição: 29
+Palavra -> text = Encontrada na Posição: 127
+Palavra -> text = Encontrada na Posição: 637
 
-Palavra -> seguinte = Aceita......Começa na Posição: 19
-Palavra -> seguinte = Aceita......Começa na Posição: 256
+****Automato para reconhecer a string since 
 
-Automato para validar a string: arquivo 
+|>Q0 === s ===> Q1 === i ===> Q2 === n ===> Q3 === c ===> Q4 === e ===> ((Q5))
 
-Palavra -> arquivo = Aceita......Começa na Posição: 56
-Palavra -> arquivo = Aceita......Começa na Posição: 149
-Palavra -> arquivo = Aceita......Começa na Posição: 205
-Palavra -> arquivo = Aceita......Começa na Posição: 292
-Palavra -> arquivo = Aceita......Começa na Posição: 382
-Palavra -> arquivo = Aceita......Começa na Posição: 437
+Palavra -> since = Encontrada na Posição: 137
+Palavra -> since = Encontrada na Posição: 1379
 
-Automato para validar a string: caso 
+****Automato para reconhecer a string making 
 
-Palavra -> caso = Aceita......Começa na Posição: 195
-Palavra -> caso = Aceita......Começa na Posição: 427
+|>Q0 === m ===> Q1 === a ===> Q2 === k ===> Q3 === i ===> Q4 === n ===> Q5 === g ===> ((Q6))
 
-Automato para validar a string: mamãe 
+Palavra -> making = Encontrada na Posição: 709
 
-Não há esta palavra no texto.
+****Automato para reconhecer a string literature 
+
+|>Q0 === l ===> Q1 === i ===> Q2 === t ===> Q3 === e ===> Q4 === r ===> Q5 === a ===> Q6 === t ===> Q7 === u ===> Q8 === r ===> Q9 === e ===> ((Q10))
+
+Palavra -> literature = Encontrada na Posição: 686
+Palavra -> literature = Encontrada na Posição: 958
+
+****Automato para reconhecer a string interested 
+
+|>Q0 === i ===> Q1 === n ===> Q2 === t ===> Q3 === e ===> Q4 === r ===> Q5 === e ===> Q6 === s ===> Q7 === t ===> Q8 === e ===> Q9 === d ===> ((Q10))
+
+Palavra -> interested = Encontrada na Posição: 1425
+
+****Automato para reconhecer a string type 
+
+|>Q0 === t ===> Q1 === y ===> Q2 === p ===> Q3 === e ===> ((Q4))
+
+Palavra -> type = Encontrada na Posição: 195
+Palavra -> type = Encontrada na Posição: 227
